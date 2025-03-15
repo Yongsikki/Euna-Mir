@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "/Euna-Mir/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -91,6 +91,7 @@ const config: QuartzConfig = {
       Plugin.CustomOgImages(),
     ],
   },
+  buildDir: "public",
 }
 
 export default config
