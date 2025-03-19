@@ -1,4 +1,5 @@
 # I. The Practice of Medicine
+테스트 1
 ### - The Science And Art of Medicine
 > - Deciding whether a clinical clue is worth pursuing or should be dismissed as a "red herring" and weighing whether a proposed test, preventive measure, or treatment entails a greater risk than the disease itself are essential judgments that a skilled clinician must make many times each day. 
 ### - Clinical Skills
