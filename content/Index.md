@@ -5,12 +5,16 @@ aliases:
 cssclasses: dashboard
 ---
 ## Project
-- 📚Rea
+- [[Working & Holiday]]
+- ⚕️Major
+	- [[Nursing]]
+	- [[Marine Biology]]
 
 ## Books
 - 📕Reading
 	- [[]]
 - 📗Read(Completed)
+- 
 
 
 This is a blank Quartz installation.
