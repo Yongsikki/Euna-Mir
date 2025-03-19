@@ -2,7 +2,7 @@
 title: Euna & Mir Blog
 aliases:
   - Home
-cssclasses: 
+cssclasses: dashboard
 ---
 ## Project
 - [[Working & Holiday]]
