@@ -1,4 +1,10 @@
-m[## Project
+---
+title: Homepage
+cssclasses: dashboard
+---
+
+
+## Project
 - 🌊[[Working & Holiday]]
 - ⚕️Major
 	- 💉Nursing
