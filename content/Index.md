@@ -5,17 +5,26 @@ aliases:
 cssclasses: dashboard
 ---
 ## Project
-- [[Working & Holiday]]
+- 🌊[[Working & Holiday]]
 - ⚕️Major
-	- [[Nursing]]
+	- 💉Nursing
+		- [[NCLEX-RN]]
 	- [[Marine Biology]]
+- 🇦🇺 Englsih 💡Proficient English: Overall > 65
+	- [[PTE (Person Test of English Academic)]]
+	- [[IELTZ]]
 
-## Books
+## Check List
+- English 
+	- [[PTE Checklist - 3Month Plan]]
+
+```button
+name Daily Note
+type command
+action Daily notes: Open today's daily note
+```
+^button-y3mi
+
+## Archive
 - 📕Reading
-	- [[]]
 - 📗Read(Completed)
-- 
-
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.

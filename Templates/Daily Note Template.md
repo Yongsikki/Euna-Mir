@@ -4,8 +4,8 @@ cssclasses: dashboard
 ---
 # Check List
 - ### Routine
-	- [ ] 07:00 Wake up
-	- [ ] 09:00~11:00 Work out 
+	- [ ] 05:00 Wake up
+	- [ ] 05:00 ~ 17:00 Work
 	- [ ] 22:00 Review
 ## To Do List
 - English 
