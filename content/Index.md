@@ -1,9 +1,3 @@
----
-title: Euna & Mir Blog
-aliases:
-  - Home
-cssclasses: dashboard
----
 ## Project
 - 🌊[[Working & Holiday]]
 - ⚕️Major
